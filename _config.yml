@@ -5,7 +5,7 @@ logo: /static/img/avatar.png
 github: https://github.com/codeasashu
 about: Freelance developer
 
-baseurl: "/chipprogrammer.github.io"
+baseurl: ""
 url: "chipprogrammers.github.io"
 
 allowsearch: true
