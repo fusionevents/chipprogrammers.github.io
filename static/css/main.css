@@ -257,3 +257,6 @@ footer {
     opacity:1;filter:"alpha(opacity=100)";
     -ms-filter:"alpha(opacity=100)";
 }
+#clickableAwesomeFont {
+     cursor: pointer
+}
