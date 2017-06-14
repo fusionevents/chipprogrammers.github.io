@@ -18,12 +18,12 @@
   {
     "text": "My Resume",
     "url": "https://chipprogrammers.github.io/online-cv/",
-    "icon": "fa-graduation-cap",
+    "icon": "fa-graduation-cap"
   },
   {
     "text": "Github",
     "url": "https://github.com/chipprogrammers",
-    "icon": "fa-Github"
+    "icon": "fa-github"
   },
   {
     "text": "XML Feed",
