@@ -3,10 +3,22 @@
   <head>
     {% include meta.html %}
       <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
+    <!--google analytics alternate method -->
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-89660760-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
       <script type="text/javascript">window.baseurl = '{{ site.url }}';</script>
       {% include css.html %}
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script>
+   <!--copy to clipbord for code snippet set up --> <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script>
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Preloader gif Set up -->
 <script>
     jQuery(window).load(function(){
         jQuery(".hameid-loader-overlay").fadeOut(1000);
@@ -20,6 +32,7 @@
     {% include main.html %}
     {% include js.html %}
     {% include analytics.html %}
+    <!-- Go back to top -->
 <a href="javascript:void(0);" id="scroll" title="Scroll to Top" style="display: none;">Top<span></span></a>	
   </body>
 </html>
