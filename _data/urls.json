@@ -6,9 +6,9 @@
     "layout": "post"
   },
   {
-    "text": "About",
-    "url": "/about/",
-    "icon": "fa-comments"
+    "text": "Github",
+    "url": "https://github.com/chipprogrammers/",
+    "icon": "fa-github"
   },
   {
     "text": "Projects",
@@ -21,9 +21,9 @@
     "icon": "fa-graduation-cap",
   },
   {
-    "text": "Github",
-    "url": "https://github.com/chipprogrammers/",
-    "icon": "fa-github"
+    "text": "Sitemap",
+    "url": "/sitemap.xml",
+    "icon": "fa-sitemap"
   },
   {
     "text": "XML Feed",
