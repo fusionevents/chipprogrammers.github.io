@@ -1,20 +1,20 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: Chipprogrammers
+description: Tech Blog
+author: Chipprogrammer
 logo: /static/img/avatar.png
 github: https://github.com/chipprogrammers
-about: Freelance developer
+about: Arun&rsquo;s and Ideas
 
 baseurl: ""
 url: ""
 
 allowsearch: true
 
-disqus_shortname: aboutashu
+disqus_shortname: https-chipprogrammers-github-io-pimate
 # google_analytics: UA-72862926-1
 
 share:
-  twitter_username: \#
+  twitter_username: ARUNKSOMAN2
   fb_appid: 000000000000
 
 
