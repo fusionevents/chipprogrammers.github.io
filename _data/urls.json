@@ -27,7 +27,7 @@
   },
   {
     "text": "XML Feed",
-    "url": "/feed.xml",
+    "url": "/sitemap.xml",
     "icon": "fa-feed",
     "target": _blank
   }
