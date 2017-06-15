@@ -245,15 +245,3 @@ footer {
 #myBtn:hover {
     background-color: #555; /* Add a dark-grey background on hover */
 }
-.sitemap {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-}
-.sitemap:hover {
-    opacity: 0.7;
-}
-<a href="#" class="fa
