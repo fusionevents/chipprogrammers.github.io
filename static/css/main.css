@@ -1,5 +1,5 @@
 .main.outer{padding-top:50px;}
-.header-panel.shadow-z-2{background-color:#5bb66f;padding:50px 0 15px 0;width:100%;}
+.header-panel.shadow-z-2{background-color:#ffa500;padding:50px 0 15px 0;width:100%;}
 .full{font-size:16px;}
 .logo-img{width:56px;height:56px;border-radius:60px;margin:0 auto;}
 .logo-turner{font-size:18px;vertical-align:middle;text-align:center;margin-top:10px;letter-spacing:2px;}
@@ -11,8 +11,8 @@ p.info a{color:#fff;text-decoration:underline;}
 .full ul,.full ol{margin-left:15px;}
 .full img{display:block;max-width:100%;height:auto;}
 .social-icons{margin:20px 0 0;}
-.icon{background:rgba(255, 255, 255, 0.63);border-radius:100%;text-align:center;line-height:20px;font-size:20px;color:#5bb66f;padding:5px;width:30px;height:30px;display:inline-block;}
-.icon:hover{color:rgba(255, 255, 255, 0.63);background:#5bb66f;}
+.icon{background:rgba(255, 255, 255, 0.63);border-radius:100%;text-align:center;line-height:20px;font-size:20px;color:#ffa500;padding:5px;width:30px;height:30px;display:inline-block;}
+.icon:hover{color:rgba(255, 255, 255, 0.63);background:#ffa500;}
 .menu ul li{list-style:none;margin:5px 0;}
 .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{background:#6bbd7d;}
 li.current-menu-item:before{content:"";display:inline-block;height:55px;width:5px;position:absolute;left:9px;vertical-align:middle;background:#B8CA28;}
