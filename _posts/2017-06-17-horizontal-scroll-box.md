@@ -23,3 +23,7 @@ If you are a Blogger, you have to create horizontal scrolling boxes for showing 
 ```
 If you have any trouble with `<` and `>` use instead `&lt;` and `&gt;` respectively.You can change background color to any light color. This code can be used for making horizontal scrolling table, text area etc. Unfortunately this code never works with HTML editor of your WordPress. Since wordpress never allow you to edit CSS for a specific post. Inorder to make horizontal text area on a WordPress blog you can use following code.
 ```markdown
+<div style="border: 1px solid black; overflow-x: auto; white-space: nowrap; height: auto; width: auto; color: black; background-color: white;">
+INSERT TEXT HERE
+</div>
+```
