@@ -5,8 +5,7 @@ date:   2017-06-17 10:07:39 -0700
 categories: Web_Design
 ---
 ## Horizontal Scroll box for blogger
-{% include figure.html image="/static/projects/Blogger.png" caption="Blogger" %}
-If you are a Blogger, you have to create horizontal scrolling boxes for showing your codes. It is not easy to setup [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/) or [Prism](http://prismjs.com) for Blogger like WordPress. However you can create beautiful horizontal scroll boxes for codes. In this post I will show you how it becomes possible. Go to your blogger control panel and create a new post. Whenever you want a code snippet you can use following code.
+If you are a Blogger, you have to create horizontal scrolling boxes for showing your codes. It is not easy to setup [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/) or [Prism](http://prismjs.com) for Blogger like WordPress. However you can create beautiful horizontal scroll boxes for codes. In this post I will show you how it becomes possible. Go to your blogger control panel and create a new post. Before copying this code make sure that you are using HTML editor mode. Whenever you want a code snippet you can use following code.
 ```markdown
 <style>
 .divScroll{ 
@@ -22,4 +21,5 @@ If you are a Blogger, you have to create horizontal scrolling boxes for showing 
 "Your Code"
 </div>
 ```
-If you have any trouble with these symbols: `<` and `>` use `&lt;` and `&gt;` respectively
+If you have any trouble with `<` and `>` use instead `&lt;` and `&gt;` respectively.You can change background color to any light color. This code can be used for making horizontal scrolling table, text area etc. Unfortunately this code never works with HTML editor of your WordPress. Since wordpress never allow you to edit CSS for a specific post. Inorder to make horizontal text area on a WordPress blog you can use following code.
+```markdown
