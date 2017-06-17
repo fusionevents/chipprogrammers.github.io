@@ -21,4 +21,5 @@ If you are a Blogger, you have to create horizontal scrolling boxes for showing 
 <div class="divScroll">
 "Your Code"
 </div>
+</code></pre>
 If you have any trouble with these symbols: `<` and `>` use `&lt;` and `&gt;`
