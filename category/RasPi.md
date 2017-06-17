@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: RasPi
+categories: Rasperry Pi
 title: Raspberry Pi
 permalink: /category/RasPi
 ---
