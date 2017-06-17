@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: Web_Designing
-title: Web_Designing
-permalink: /category/Web_Designing
+categories: Web_Design
+title: Web_Design
+permalink: /category/Web_Design
 ---
