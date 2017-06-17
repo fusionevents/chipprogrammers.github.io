@@ -2,5 +2,5 @@
 layout: posts_by_category
 categories: Rasperry Pi
 title: Raspberry Pi
-permalink: /category/RasPi
+permalink: /category/Raspberry Pi
 ---
