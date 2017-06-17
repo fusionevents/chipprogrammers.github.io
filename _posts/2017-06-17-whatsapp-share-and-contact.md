@@ -17,7 +17,7 @@ https://chipprogrammers.github.io/jekyll/2017/06/17/whatsapp-share-and-contact.h
 ```
 Here https://chipprogrammers.github.io is my `site.url` and /jekyll//2017/06/17/whatsapp-share-and-contact.html is my `page.url`. I have no site.baseurl since I am named my repository in the format `username.github.io`. Now we can see how the code should be written.
 <pre class="line-numbers">
-<code class="language-markup">
+<code class="language-javascript">
 <a href="whatsapp://send?text={{site.url}}{{ page.url }}" style="position: relative; top: -8px; padding: 3px 8px 3px 8px;color: #fff;font-size: 11px;font-weight: bold;font-family: Helvetica, Arial, sans-serif;background-color: #5bb66f;border-radius: 3px;"><i class="fa fa-whatsapp" aria-hidden="true"></i> Whatsapp</a>
 </code></pre>
 This will produce a button like following:<br />
