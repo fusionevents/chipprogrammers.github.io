@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sensing Light
-categories: Raspberry Pi
+categories: RasPi
 ---
 # Sensing Light using LDR
 ### A shopping List of Parts
