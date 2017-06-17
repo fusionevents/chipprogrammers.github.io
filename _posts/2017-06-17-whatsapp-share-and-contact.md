@@ -19,5 +19,7 @@ Here https://chipprogrammers.github.io is my `site.url` and /jekyll//2017/06/17/
 ```markdown
 <a href="whatsapp://send?text={{site.url}}{{ page.url }}" style="position: relative; top: -8px; padding: 3px 8px 3px 8px;color: #fff;font-size: 11px;font-weight: bold;font-family: Helvetica, Arial, sans-serif;background-color: #5bb66f;border-radius: 3px;"><i class="fa fa-whatsapp" aria-hidden="true"></i> Whatsapp</a>
 ```
+<font color="red">Actually Code Snippet not allowing me to show {{site.url}}{{page.url}} instead the url of this page. So you should change url of this webpage to {{site.url}}{{page.url}} for working this code successfully</font>
 This will produce a button like following:<br />
 <a href="whatsapp://send?text={{site.url}}{{ page.url }}" style="position: relative; top: -8px; padding: 3px 8px 3px 8px;color: #fff;font-size: 11px;font-weight: bold;font-family: Helvetica, Arial, sans-serif;background-color: #5bb66f;border-radius: 3px;"><i class="fa fa-whatsapp" aria-hidden="true"></i> Whatsapp</a>
+Reference: [Yateendra/very-simple-whatsapp-sharing-button](https://github.com/yateendra/Very-Simple-WhatsApp-Sharing-Button)
