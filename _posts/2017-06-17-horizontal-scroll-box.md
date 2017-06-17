@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "Horizontal scroll box"
-date:   {{ page.date | date_to_rfc822 }}
+date:    "{{ page.date }}" 
 categories: Web_Design
 ---
