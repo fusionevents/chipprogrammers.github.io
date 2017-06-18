@@ -31,7 +31,7 @@ Reference: [Yateendra/very-simple-whatsapp-sharing-button](https://github.com/ya
 # Whatsapp Contact Button
 It is very easy to build a Whatsapp contact button on your website. You can see perfect example for this on the header of this blog. I do not going to exaggerate theae things. It is the code:
 ```markdown
-<a href="https://api.whatsapp.com/send?phone=+cc-xxxxxxxxxx" method="get" target="_blank"><i class="fa fa-whatsapp"></i>Whatsapp Contact</a>
+<a href="https://api.whatsapp.com/send?phone=+cc-xxxxxxxxxx"><i class="fa fa-whatsapp"></i>Whatsapp Contact</a>
 ```
 Type your phone number with contry code instead `+cc-xxxxxxxxxx`. The output of this one shows something like this:<br /><br />
 <a href="https://api.whatsapp.com/send?phone=+91-8281618806"><i class="fa fa-whatsapp"></i> Whatsapp Contact</a>
