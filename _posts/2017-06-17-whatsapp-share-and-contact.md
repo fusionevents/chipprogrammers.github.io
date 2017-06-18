@@ -27,6 +27,7 @@ Here https://chipprogrammers.github.io is my `site.url` and /jekyll//2017/06/17/
 This will produce a button like following:<br /><br />
 <a href="whatsapp://send?text={{site.url}}{{ page.url }}" style="position: relative; top: -8px; padding: 3px 8px 3px 8px;color: #fff;font-size: 11px;font-weight: bold;font-family: Helvetica, Arial, sans-serif;background-color: #5bb66f;border-radius: 3px;"><i class="fa fa-whatsapp" aria-hidden="true"></i> Whatsapp</a><br />
 Reference: [Yateendra/very-simple-whatsapp-sharing-button](https://github.com/yateendra/Very-Simple-WhatsApp-Sharing-Button)
+
 # Whatsapp Contact Button
 It is very easy to build a Whatsapp contact button on your website. You can see perfect example for this on the header of this blog. I do not going to exaggerate theae things. It is the code:
 ```markdown
