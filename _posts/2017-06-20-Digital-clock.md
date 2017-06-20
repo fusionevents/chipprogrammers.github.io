@@ -4,6 +4,8 @@ title:  "Digital Clock"
 date:   2017-06-20 14:20:39 -0700
 categories: Web_Design
 ---
+
+# Digital Clock Using JavaScript
 Today we will discuss about how to create a digital clock on your website. It is little bit easier task. We can use Javascript for this task. Create a file `time.html` on your `_includes` directory. The time.html is looks like this. You can change styles according to your perspective.
 ```markdown
 <center>
