@@ -4,6 +4,12 @@ layout: default
 <div class="post-content well" style="text-align: justify;">
 <article class="content">
     <div class="post">{{ content }}</div>
+    <!-- Tags -->
+        <ul class="taggs">
+  {% for tag in page.tags %}
+    <li><a href="/tags#{{ tag }}" class="tagg">{{ tag }}</a></li>
+  {% endfor %}
+</ul>
     <hr />
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Google AdSense -->
