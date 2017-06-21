@@ -2,6 +2,7 @@
 layout: post
 title: Sensing Light
 categories: RasPi
+tags: RasPi Python Electronics
 ---
 # Sensing Light using LDR
 ### A shopping List of Parts
